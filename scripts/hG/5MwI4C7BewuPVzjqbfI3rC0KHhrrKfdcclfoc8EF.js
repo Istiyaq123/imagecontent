@@ -15,10 +15,10 @@ function start(){
     one.src = "https://s2contentimage.netlify.com/image-poster/9i/8ZbYtnfRwKvIJgauBprZHU2Q4hpBA9RgOutDNNEbHLXoiX8CLirxkRIAfWIU.png";
   }
   function twoO(){
-    one.src = "https://s2contentimage.netlify.com/image-poster/1k/IOB5GNJgZQ5US20EPR4aK3O8iWgCXUo0kVub07sxBxoEtgSrOALfkoTWuBxl.png";
+    two.src = "https://s2contentimage.netlify.com/image-poster/1k/IOB5GNJgZQ5US20EPR4aK3O8iWgCXUo0kVub07sxBxoEtgSrOALfkoTWuBxl.png";
   }
 
   function twoI(){
-    one.src = "https://s2contentimage.netlify.com/image-poster/K7/eJ2oGS8iI4OuuChxUDPsnoYRqyuWSOOlKEOzbvc5vMeTKakRpgK65remyhiE.png";
+    two.src = "https://s2contentimage.netlify.com/image-poster/K7/eJ2oGS8iI4OuuChxUDPsnoYRqyuWSOOlKEOzbvc5vMeTKakRpgK65remyhiE.png";
   }
 }
